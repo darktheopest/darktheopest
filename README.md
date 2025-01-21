@@ -28,8 +28,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![dark's GitHub stats](https://github-readme-stats.vercel.app/api?username=darktheopest&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darktheopest&layout=compact&theme=dark)  
+  <div>
+    <img src="https://raw.githubusercontent.com/darktheopest/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/darktheopest/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+  </div>
 
 ---
 
