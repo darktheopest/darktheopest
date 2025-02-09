@@ -28,7 +28,7 @@
 ---
 
 ## Streaks
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=darktheopest&theme=dark&border_radius=5&border=EB5454&background=45%2C71372B%2C34073D&currStreakNum=F4762D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=darktheopest&theme=dark&border_radius=5&card_width=600&card_height=200&border=EB5454&background=45%2C71372B%2C34073D&currStreakNum=F4762D" alt="GitHub Streak" /></a>
 
 ---
 
