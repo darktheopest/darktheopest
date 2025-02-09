@@ -27,6 +27,11 @@
 
 ---
 
+## Streaks
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=darktheopest" alt="GitHub Streak" /></a>
+
+---
+
 ## 📊 GitHub Stats  
   <div>
     <img src="https://raw.githubusercontent.com/darktheopest/github-stats/master/generated/overview.svg#gh-dark-mode-only">
