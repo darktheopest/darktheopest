@@ -28,19 +28,19 @@
 ---
 
 ## Streaks
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ramos_350&theme=dark&border_radius=5&card_width=700&card_height=200&border=EB5454&background=45%2C71372B%2C34073D&currStreakNum=F4762D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ramos350&theme=dark&border_radius=5&card_width=700&card_height=200&border=EB5454&background=45%2C71372B%2C34073D&currStreakNum=F4762D" alt="GitHub Streak" /></a>
 
 ---
 
 ## 📊 GitHub Stats  
   <div>
-    <img src="https://raw.githubusercontent.com/ramos_350/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/ramos_350/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/ramos350/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/ramos350/github-stats/master/generated/languages.svg#gh-dark-mode-only">
   </div>
 
 ---
 
 ## 🌐 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ramos_350)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ramos350)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dark.lormas.net)  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/926643835419910184)  
